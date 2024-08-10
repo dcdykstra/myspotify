@@ -4,3 +4,5 @@
 data/
 .venv/
 config.ini
+__pycache__/
+.cache
