@@ -1,0 +1,6 @@
+*.json
+*.pyc
+*.ipynb
+data/
+.venv/
+config.ini
