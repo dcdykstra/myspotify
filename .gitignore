@@ -1,8 +1,11 @@
 *.json
 *.pyc
 *.ipynb
+*.zip
 data/
 .venv/
 config.ini
 __pycache__/
 .cache
+package_upload/
+.DS_Store
